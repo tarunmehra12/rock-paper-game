@@ -11,7 +11,7 @@ This is a simple Rock-Paper-Scissors game built with Python. The game runs in th
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tarunmehra12/rock-paper-game
+ https://github.com/tarunmehra12/rock-paper-game.git
 ## Future Improvements
 - Add a score tracking system.
 - Allow multiple rounds with a final winner.
