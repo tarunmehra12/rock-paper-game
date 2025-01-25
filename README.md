@@ -8,4 +8,14 @@ This is a simple Rock-Paper-Scissors game built with Python. The game runs in th
 - Randomized computer choices for a fair game.
 - Displays the winner after each round.
 
+## How to Play
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tarunmehra12/rock-paper-game
+   cd rock-paper-scissors
+## Future Improvements
+- Add a score tracking system.
+- Allow multiple rounds with a final winner.
+- Implement a graphical user interface (GUI).
+
 
